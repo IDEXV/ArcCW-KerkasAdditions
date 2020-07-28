@@ -7,6 +7,9 @@ att.Desc_Pros = {
 att.Desc_Cons = {
     "- Burst delay"
 }
+att.Desc_Neutrals = {
+    "Pretty bad"
+}
 att.AutoStats = true
 att.Slot = "fcg"
 

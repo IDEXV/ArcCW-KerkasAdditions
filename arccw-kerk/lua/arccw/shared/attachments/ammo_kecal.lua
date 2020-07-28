@@ -4,7 +4,7 @@ att.Description = "A modified slug shell from KerkOTech. Even more accurate, and
 att.Desc_Pros = {
 }
 att.Desc_Cons = {
-    "- Projectile count"
+    "- Projectile count",
 }
 att.AutoStats = true
 att.Slot = "ammo_shotgun"
