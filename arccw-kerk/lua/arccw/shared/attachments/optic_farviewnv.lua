@@ -28,7 +28,7 @@ att.AdditionalSights = {
         ZoomLevels = 12,
         NVScope = true,
         NVScopeColor = Color(0, 255, 100),
-        NVFullColor = true,
+        NVFullColor = false,
         ZoomSound = "weapons/arccw/fiveseven/fiveseven_slideback.wav",
         IgnoreExtra = true
     }

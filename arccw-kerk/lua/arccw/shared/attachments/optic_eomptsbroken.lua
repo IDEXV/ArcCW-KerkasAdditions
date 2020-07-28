@@ -1,12 +1,11 @@
-att.PrintName = "KOMPNVS (NV)"
+att.PrintName = "KOMPNVS (Broken)"
 att.Icon = Material("entities/acwatt_optic_eompts.png")
-att.Description = "Light night vision scope. KOMPNVS stands for 'KerkOTech Miniature Prototype Night Vision Sight'. Quite heavy."
+att.Description = "A broken KOMPNVS scope."
 
 att.SortOrder = 40
 
 att.Desc_Pros = {
     "+ Precision sight picture",
-    "+ Night vision picture"
 }
 att.Desc_Cons = {
     "- Visible scope glint",
@@ -21,10 +20,10 @@ att.AdditionalSights = {
     {
         Pos = Vector(-0.01, 12, -1.52),
         Ang = Angle(0, 0, 0),
-        Magnification = 1.75,
+        Magnification = 2.10,
         ScrollFunc = ArcCW.SCROLL_ZOOM,
         NVScope = true,
-        NVScopeColor = Color(0, 255, 100),
+        NVScopeColor = Color(255, 0, 0),
         NVFullColor = false,
         ZoomSound = "buttons/combine_button5.wav",
         IgnoreExtra = true,
@@ -45,6 +44,6 @@ att.HolosightBlackbox = false
 
 att.HolosightConstDist = 42
 
-att.Mult_SightTime = 1.5
-att.Mult_SightedSpeedMult = 0.80
-att.Mult_SpeedMult = 0.885
+att.Mult_SightTime = 1.4
+att.Mult_SightedSpeedMult = 0.75
+att.Mult_SpeedMult = 0.865
