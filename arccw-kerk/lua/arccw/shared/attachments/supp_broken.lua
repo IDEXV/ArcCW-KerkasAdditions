@@ -7,7 +7,7 @@ att.Desc_Cons = {
     "- May obstruct sights"
 }
 att.AutoStats = true
-att.Slot = "muzzle"
+att.Slot = {"muzzle", "muzzle_shotgun"}
 
 att.Model = "models/weapons/arccw/atts/supp_heavy.mdl"
 

@@ -1,6 +1,6 @@
 att.PrintName = "KOMPNVS (NV)"
 att.Icon = Material("entities/acwatt_optic_eompts.png")
-att.Description = "Light night vision scope. KOMPNVS stands for 'KerkOTech Miniature Prototype Night Vision Sight'. Quite heavy."
+att.Description = "A modified version of the KOMPS, but with a night vision device attached. Quite heavy."
 
 att.SortOrder = 40
 
