@@ -6,8 +6,12 @@ att.Desc_Pros = {
 }
 att.Desc_Cons = {
 }
+att.Desc_Neutrals = {
+    "Bad performance when used on pistols"
+}
 att.AutoStats = true
 att.Slot = "ammo_bullet"
+att.Hidden = true
 
 att.Mult_ReloadTime = 1.40
 att.MagExtender = true

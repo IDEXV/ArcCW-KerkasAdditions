@@ -8,6 +8,18 @@ att.Desc_Cons = {
 att.AutoStats = true
 att.Slot = "fcg"
 
+att.Override_Firemodes = {
+    {
+        Mode = 2,
+    },
+    {
+        Mode = 1,
+    },
+    {
+        Mode = 0
+    }
+}
+
 att.Mult_Recoil = 1.25
 att.Mult_RPM = 1.20
 att.Mult_ReloadTime = 1.10
