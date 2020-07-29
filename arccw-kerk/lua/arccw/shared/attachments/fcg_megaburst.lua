@@ -2,7 +2,7 @@ att.PrintName = "Mega-Burst"
 att.Icon = Material("entities/acwatt_fcg_hyper.png")
 att.Description = "Modified firemode conversion allowing for a very rapid five-round burst mode. Extra mechanical complexity increases weight and increases weapon recoil."
 att.Desc_Pros = {
-    "+ Mega-Burst",
+    "+ Rapid Burst firemode",
     "+ Insane rate of fire"
 }
 att.Desc_Cons = {

@@ -1,6 +1,6 @@
-att.PrintName = "Improved Bolt"
+att.PrintName = "Better Bolt"
 att.Icon = Material("entities/acwatt_fcg_auto.png")
-att.Description = "Improved bolt allows for 5% faster shooting at the cost of weapon weight."
+att.Description = "Better firing bolt allows for 5% faster shooting at the cost of weapon weight."
 att.Desc_Pros = {
 }
 att.Desc_Cons = {
