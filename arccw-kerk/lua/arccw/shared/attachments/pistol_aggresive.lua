@@ -12,9 +12,9 @@ att.AutoStats = true
 
 att.LHIK = true
 att.LHIKHide = true
-att.Mult_Recoil = 2
-att.Mult_RecoilSide = 2
-att.Mult_RecoilRise = 2
+att.Mult_Recoil = 1.75
+att.Mult_RecoilSide = 1.75
+att.Mult_RecoilRise = 1.75
 
 att.Mult_SightTime = 1.25
 att.Mult_HipDispersion = 0.6
