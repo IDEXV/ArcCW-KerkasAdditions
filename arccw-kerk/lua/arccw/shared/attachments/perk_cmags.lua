@@ -38,7 +38,3 @@ end
 att.Hook_GetCapacity = function(wep, cap)
     return 100
 end
-
-att.Hook_Compatible = function(wep)
-    if (wep.RegularClipSize or wep.Primary.ClipSize) == wep.ExtendedClipSize then return false end
-end
