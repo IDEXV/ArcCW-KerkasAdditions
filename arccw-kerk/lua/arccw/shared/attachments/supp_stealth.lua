@@ -5,6 +5,9 @@ att.Desc_Pros = {
 }
 att.Desc_Cons = {
 }
+att.Desc_Neutrals = {
+    "Perfect when used on pistols",
+}
 att.AutoStats = true
 att.Slot = "muzzle"
 
@@ -14,12 +17,12 @@ att.Silencer = true
 att.Override_MuzzleEffect = "muzzleflash_suppressed"
 att.IsMuzzleDevice = true
 
-att.Mult_ShootPitch = 1.2
+att.Mult_ShootPitch = 0.8
 att.Mult_ShootVol = 0.50
 att.Mult_AccuracyMOA = 1.05
 
-att.Mult_HipDispersion = 1.20
-att.Mult_Range = 0.6
-att.Mult_DamageMin = 0.6
+att.Mult_HipDispersion = 1.30
+att.Mult_Range = 0.4
+att.Mult_DamageMin = 0.4
 
 att.Add_BarrelLength = 8
