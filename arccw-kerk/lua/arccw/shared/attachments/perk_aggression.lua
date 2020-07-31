@@ -10,7 +10,7 @@ att.Slot = "perk"
 att.NotForNPC = true
 
 att.AutoStats = true
-att.Mult_MeleeDamage = 1.35
+att.Mult_MeleeDamage = 1.50
 att.Mult_MeleeTime = 1.35
 att.Mult_DrawTime = 0.9
 att.Mult_ReloadTime = 0.6

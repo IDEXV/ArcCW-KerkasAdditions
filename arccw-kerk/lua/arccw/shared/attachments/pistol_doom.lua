@@ -25,4 +25,4 @@ att.Mult_ReloadTime = 1.5
 att.Mult_SpeedMult = 0.5
 att.Mult_SightedSpeedMult = 0.7
 
-att.Override_ActivePos = Vector(-7.5, 0, 0)
+att.Override_ActivePos = Vector(-6, 0, 0)
