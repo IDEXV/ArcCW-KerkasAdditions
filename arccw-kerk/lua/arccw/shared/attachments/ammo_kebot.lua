@@ -11,13 +11,14 @@ att.Slot = "ammo_shotgun"
 
 att.Override_Num = 1
 
-att.Mult_ShootPitch = 0.85
-att.Mult_Damage = 0.3
+att.Mult_ShootPitch = 0.75
+att.Mult_ShootVol = 1.35
+att.Mult_Damage = 0.1
 att.Mult_DamageMin = 5
 att.Mult_Penetration = 8
 att.Mult_AccuracyMOA = 0.05
-att.Mult_Range = 4
-att.Mult_Recoil = 1.35
+att.Mult_Range = 5
+att.Mult_Recoil = 1.75
 
 att.MagReducer = true
 

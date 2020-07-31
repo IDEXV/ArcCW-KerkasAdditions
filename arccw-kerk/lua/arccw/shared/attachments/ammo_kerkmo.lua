@@ -1,4 +1,4 @@
-att.PrintName = "KerMsn"
+att.PrintName = "KerMag"
 att.Icon = Material("entities/acwatt_ammo_magnum.png")
 att.Description = "Powerful ammunition made by KerkOTech. Heavy power rounds are effective at close range, but uneffective when shot from a distance."
 att.Desc_Pros = {
