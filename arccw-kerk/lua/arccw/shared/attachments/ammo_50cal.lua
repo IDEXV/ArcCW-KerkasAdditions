@@ -7,7 +7,7 @@ att.Desc_Cons = {
     "- Magazine capacity",
 }
 att.Desc_Neutrals = {
-    "Bad performance when used on automatic weapons",
+    "Can only be used with sniper or magnum ammo",
 }
 att.AutoStats = true
 att.Slot = "ammo_bullet"
@@ -22,6 +22,10 @@ att.Mult_Recoil = 1.50
 
 att.Mult_ShootVol = 1.35
 att.Mult_ShootPitch = 1.10
+
+att.Hook_Compatible = function(wep)
+    if wep.Num ~= 1 or (wep.Primary.Ammo ~= "SniperPenetratedRound" and wep.Primary.Ammo ~= "357") then return false end
+end
 
 att.MagReducer = true
 
