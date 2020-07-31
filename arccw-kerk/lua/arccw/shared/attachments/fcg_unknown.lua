@@ -1,5 +1,5 @@
 att.PrintName = "Unknown Burst"
-att.Icon = Material("entities/acwatt_fcg_burst.png")
+att.Icon = Material("entities/acwatt_fcg_unknown.png")
 att.Description = "Modified firemode conversion allowing for 10-round burst. Made by KerkOTech."
 att.Desc_Pros = {
     "+ Rapid Burst-fire mode"

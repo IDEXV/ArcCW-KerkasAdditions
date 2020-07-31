@@ -1,5 +1,5 @@
 att.PrintName = "AP Ammo"
-att.Icon = Material("entities/acwatt_ammo_tmj.png")
+att.Icon = Material("entities/ammo_50cal.png")
 att.Description = "Heavy armor-piercing ammunition for long range activities. Heavy power loads allow for greater penetration. Reduced magazines are issued due to jamming issues."
 att.Desc_Pros = {
 }

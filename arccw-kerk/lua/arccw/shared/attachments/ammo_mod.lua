@@ -1,5 +1,5 @@
 att.PrintName = "KerPX-20"
-att.Icon = Material("entities/acwatt_ammo_tmj.png")
+att.Icon = Material("entities/ammo_mod.png")
 att.Description = "Special .50 caliber bullets which keep energy better at long range, improving damage at distance but overpenetrating targets which are too close."
 att.Desc_Pros = {
 }

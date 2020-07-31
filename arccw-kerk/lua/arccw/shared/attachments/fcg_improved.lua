@@ -1,5 +1,5 @@
 att.PrintName = "Improved FCG"
-att.Icon = Material("entities/acwatt_fcg_auto.png")
+att.Icon = Material("entities/ammo_fcg_improved.png")
 att.Description = "Firemode conversion allowing for 15% faster shooting at the cost of weapon weight and reload time."
 att.Desc_Pros = {
 }

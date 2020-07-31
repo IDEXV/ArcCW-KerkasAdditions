@@ -1,5 +1,5 @@
 att.PrintName = "KerSlug"
-att.Icon = Material("entities/acwatt_ammo_slug.png")
+att.Icon = Material("entities/ammo_kecal.png")
 att.Description = "A modified slug shell from KerkOTech. Even more accurate, and more effective at range, but at the cost of being only a single projectile, and increased recoil."
 att.Desc_Pros = {
 }

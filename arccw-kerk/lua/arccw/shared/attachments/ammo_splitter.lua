@@ -1,5 +1,5 @@
 att.PrintName = "Splitter"
-att.Icon = Material("entities/acwatt_ammo_frangible.png")
+att.Icon = Material("entities/ammo_splitter.png")
 att.Description = "Heavily modified HP+ bullets that split into 6 bullets when shot. Made by KerkOTech."
 att.Desc_Pros = {
     "+ Bullet count",

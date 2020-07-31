@@ -1,5 +1,5 @@
 att.PrintName = "HP+ Ammo"
-att.Icon = Material("entities/acwatt_ammo_frangible.png")
+att.Icon = Material("entities/ammo_45cal.png")
 att.Description = "Improved hollow point ammunition for close range encounters. Increased bullet mass allow for more close range damage. The downside is increased weapon recoil."
 att.Desc_Pros = {
 }

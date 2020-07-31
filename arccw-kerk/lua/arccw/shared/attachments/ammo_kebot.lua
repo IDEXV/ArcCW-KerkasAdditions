@@ -1,5 +1,5 @@
 att.PrintName = "KerBren"
-att.Icon = Material("entities/acwatt_ammo_sabot.png")
+att.Icon = Material("entities/ammo_kebot.png")
 att.Description = "A modified KerSlug, containing an additional subcaliber projectile. This enables superior muzzle velocity on the armor-piercing projectile, allowing it to deal more damage at range and penetrate a lot of armor. However, it makes the weapon very hard to handle when shot. Because of the possibility of weapon jamming, reduced magazines are issued."
 att.Desc_Pros = {
 }
