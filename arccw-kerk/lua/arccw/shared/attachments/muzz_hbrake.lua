@@ -17,5 +17,9 @@ att.Mult_SightTime = 1.15
 
 att.Add_BarrelLength = 3
 
-att.Mult_Recoil = 0.65
-att.Mult_RecoilSide = 1.8
+att.Hook_Compatible = function(wep)
+    if wep.Num ~= 1 or (wep.Primary.Ammo ~= "SniperPenetratedRound") then return false end
+end
+
+att.Mult_Recoil = 0.50
+att.Mult_RecoilSide = 2

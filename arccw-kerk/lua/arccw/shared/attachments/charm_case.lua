@@ -1,5 +1,5 @@
 att.PrintName = "Briefcase"
-att.Icon = Material("entities/acwatt_charm_physgun.png")
+att.Icon = Material("entities/acwatt_suitcase001.png")
 att.Description = "A briefcase found in an abandoned cavern. It has 'Kerkas Items' text on it. With this charm, you just can't forget your items."
 
 att.Desc_Pros = {
