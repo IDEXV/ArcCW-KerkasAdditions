@@ -1,5 +1,5 @@
 att.PrintName = "Stealth Suppressor"
-att.Icon = Material("entities/acwatt_supp_light.png")
+att.Icon = Material("entities/acwatt_supp_med.png")
 att.Description = "A light weapon suppressor with enhanced sound-suppressing qualities. Negatively impacts ballistic performance and effective weapon range."
 att.Desc_Pros = {
 }
@@ -11,7 +11,7 @@ att.Desc_Neutrals = {
 att.AutoStats = true
 att.Slot = "muzzle"
 
-att.Model = "models/weapons/arccw/atts/supp_light.mdl"
+att.Model = "models/weapons/arccw/atts/supp_medium.mdl"
 
 att.Silencer = true
 att.Override_MuzzleEffect = "muzzleflash_suppressed"
