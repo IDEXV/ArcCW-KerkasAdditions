@@ -8,8 +8,8 @@ att.Desc_Cons = {
 }
 att.AutoStats = true
 att.Slot = "charm"
-
 att.Free = true
+att.Ignore = true
 
 att.Model = "models/weapons/arccw/atts/charmbase.mdl"
 
