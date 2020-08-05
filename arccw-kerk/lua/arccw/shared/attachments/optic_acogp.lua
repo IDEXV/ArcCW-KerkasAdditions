@@ -1,4 +1,4 @@
-att.PrintName = "ACOG (2x)"
+att.PrintName = "ACOG (2x, LP)"
 att.Icon = Material("entities/acwatt_optic_acog.png")
 att.Description = "A modified ACOG for pistols. The downside of this modified optic is slower sight time and smaller magnification."
 
