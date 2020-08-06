@@ -9,7 +9,7 @@ att.Desc_Cons = {
 att.AutoStats = true
 att.Slot = {"muzzle", "muzzle_shotgun"}
 
-att.Model = "models/weapons/arccw/atts/supp_heavy.mdl"
+att.Model = "models/weapons/arccw/atts/supp_prototype.mdl"
 
 att.Silencer = true
 att.Override_MuzzleEffect = "muzzleflash_suppressed"
