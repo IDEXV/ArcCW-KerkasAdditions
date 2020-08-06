@@ -31,4 +31,4 @@ att.Mult_CycleTime = 1.6
 att.Mult_SpeedMult = 0.65
 att.Mult_SightedSpeedMult = 0.65
 
-att.Add_BarrelLength = 27
+att.Add_BarrelLength = 32
