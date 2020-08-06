@@ -26,4 +26,4 @@ att.Hook_Compatible = function(wep)
     if wep.Num ~= 1 or (wep.Primary.Ammo ~= "pistol") then return false end
 end
 
-att.Add_BarrelLength = 4
+att.Add_BarrelLength = 8
