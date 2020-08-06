@@ -1,6 +1,6 @@
 att.PrintName = "Better Bolt"
 att.Icon = Material("entities/acwatt_fcg_imp_bolt.png")
-att.Description = "Better firing bolt allows for 5% faster shooting at the cost of weapon weight."
+att.Description = "Improved firing bolt improves weapon firing speed by 5%."
 att.Desc_Pros = {
 }
 att.Desc_Cons = {
@@ -8,18 +8,4 @@ att.Desc_Cons = {
 att.AutoStats = true
 att.Slot = "fcg"
 
-att.Override_Firemodes = {
-    {
-        Mode = 2,
-    },
-    {
-        Mode = 1,
-    },
-    {
-        Mode = 0
-    }
-}
-
 att.Mult_RPM = 1.05
-att.Mult_DrawTime = 1.10
-att.Mult_SightTime = 1.10
