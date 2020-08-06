@@ -14,6 +14,7 @@ att.Desc_Cons = {
 }
 att.Slot = {"style_pistol", "foregrip"}
 att.Free = true
+att.Ignore = true
 
 att.Mult_Recoil = 0.4
 att.Mult_RecoilSide = 0.4
