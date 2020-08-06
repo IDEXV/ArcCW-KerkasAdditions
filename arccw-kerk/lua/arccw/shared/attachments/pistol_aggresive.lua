@@ -19,5 +19,6 @@ att.Mult_RecoilRise = 1.75
 att.Mult_SightTime = 1.25
 att.Mult_HipDispersion = 0.6
 att.Mult_PrecisionMOA = 0.6
+att.Override_HoldtypeActive = "pistol"
 
 att.Override_ActivePos = Vector(0, 0, 4)
