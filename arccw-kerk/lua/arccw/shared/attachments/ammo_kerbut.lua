@@ -5,6 +5,9 @@ att.Desc_Pros = {
 }
 att.Desc_Cons = {
 }
+att.Desc_Neutrals = {
+    "Can only be used with sniper ammo",
+}
 att.AutoStats = true
 att.Slot = "ammo_bullet"
 
