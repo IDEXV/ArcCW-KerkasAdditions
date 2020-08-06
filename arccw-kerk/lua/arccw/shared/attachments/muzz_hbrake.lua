@@ -1,6 +1,6 @@
 att.PrintName = "AM Muzzle Brake"
 att.Icon = Material("entities/acwatt_muzz_brake.png")
-att.Description = "A heavily modified muzzle device that is commonly used on anti-materiel sniper rifles. Improves vertical recoil, but makes recoil less stable."
+att.Description = "A huge muzzle brake that is used on anti-materiel sniper rifles. Improves vertical recoil, but makes recoil less stable."
 att.Desc_Pros = {
 }
 att.Desc_Cons = {
