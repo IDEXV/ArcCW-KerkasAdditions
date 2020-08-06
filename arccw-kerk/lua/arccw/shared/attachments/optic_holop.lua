@@ -1,4 +1,4 @@
-att.PrintName = "Holographic (HOLO, LP)"
+att.PrintName = "P-Holographic (HOLO, LP)"
 att.Icon = Material("entities/acwatt_optic_holo.png")
 att.Description = "A portable boxy holographic sight designed for pistols."
 
