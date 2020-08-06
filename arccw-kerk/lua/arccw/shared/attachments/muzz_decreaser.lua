@@ -1,6 +1,6 @@
 att.PrintName = "Decreaser"
 att.Icon = Material("entities/acwatt_muzz_compensator.png")
-att.Description = "Muzzle device which decreases weapon recoil by venting the exhaust gasses."
+att.Description = "A muzzle device which decreases weapon recoil by venting the exhaust gasses."
 att.Desc_Pros = {
 }
 att.Desc_Cons = {
