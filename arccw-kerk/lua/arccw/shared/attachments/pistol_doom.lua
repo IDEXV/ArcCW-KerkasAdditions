@@ -12,7 +12,7 @@ att.Desc_Cons = {
     "-- Movement speed",
     "- Sighted strafe speed",
 }
-att.Slot = {"style_pistol", "foregrip"}
+att.Slot = "foregrip"
 att.Free = true
 att.Ignore = true
 
@@ -25,5 +25,6 @@ att.Mult_PrecisionMOA = 2.5
 att.Mult_ReloadTime = 1.5
 att.Mult_SpeedMult = 0.5
 att.Mult_SightedSpeedMult = 0.7
+att.Override_HoldtypeActive = "shotgun"
 
 att.Override_ActivePos = Vector(-6, 0, 0)
