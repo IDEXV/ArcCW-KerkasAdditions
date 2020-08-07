@@ -19,7 +19,7 @@ att.AdditionalSights = {
     {
         Pos = Vector(-0.01, 12, -1.52),
         Ang = Angle(0, 0, 0),
-        Magnification = 1.75,
+        Magnification = 2,
         ScrollFunc = ArcCW.SCROLL_ZOOM,
         ZoomSound = "buttons/combine_button5.wav",
         IgnoreExtra = true,
@@ -35,7 +35,7 @@ att.HolosightNoFlare = true
 att.HolosightSize = 24
 att.HolosightBone = "holosight"
 
-att.HolosightMagnification = 1.1
+att.HolosightMagnification = 1.7
 att.HolosightBlackbox = false
 
 att.HolosightConstDist = 42
