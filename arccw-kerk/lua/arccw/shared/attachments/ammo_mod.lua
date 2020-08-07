@@ -4,7 +4,6 @@ att.Description = "Special .50 caliber bullets which keep energy better at long 
 att.Desc_Pros = {
 }
 att.Desc_Cons = {
-    "- Magazine capacity",
 }
 att.Desc_Neutrals = {
     "Can only be used with sniper ammo",

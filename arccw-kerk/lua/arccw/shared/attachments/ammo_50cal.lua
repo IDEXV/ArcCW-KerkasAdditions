@@ -4,7 +4,6 @@ att.Description = "Heavy armor-piercing ammunition for long range activities. In
 att.Desc_Pros = {
 }
 att.Desc_Cons = {
-    "- Magazine capacity",
 }
 att.Desc_Neutrals = {
     "Can only be used with sniper or magnum ammo",

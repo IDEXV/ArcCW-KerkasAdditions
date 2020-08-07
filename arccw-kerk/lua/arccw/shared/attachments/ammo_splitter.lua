@@ -6,7 +6,6 @@ att.Desc_Pros = {
     "++ Hit Zone"
 }
 att.Desc_Cons = {
-    "- Magazine capacity",
 }
 att.Desc_Neutrals = {
     "Can only be used with smg1 or ar2 ammo",

@@ -4,7 +4,6 @@ att.Description = "A modified KerSlug, containing an additional subcaliber proje
 att.Desc_Pros = {
 }
 att.Desc_Cons = {
-    "- Magazine capacity",
 }
 att.AutoStats = true
 att.Slot = "ammo_shotgun"
