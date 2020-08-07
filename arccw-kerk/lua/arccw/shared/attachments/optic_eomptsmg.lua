@@ -19,7 +19,7 @@ att.AdditionalSights = {
     {
         Pos = Vector(-0.01, 12, -1.52),
         Ang = Angle(0, 0, 0),
-        Magnification = 2,
+        Magnification = 1.75,
         ScrollFunc = ArcCW.SCROLL_ZOOM,
         ZoomSound = "buttons/combine_button5.wav",
         IgnoreExtra = true,

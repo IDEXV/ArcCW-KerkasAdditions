@@ -20,7 +20,7 @@ att.AdditionalSights = {
     {
         Pos = Vector(-0.01, 12, -1.52),
         Ang = Angle(0, 0, 0),
-        Magnification = 1.50,
+        Magnification = 2.10,
         ScrollFunc = ArcCW.SCROLL_ZOOM,
         NVScope = true,
         NVScopeColor = Color(255, 0, 0),
