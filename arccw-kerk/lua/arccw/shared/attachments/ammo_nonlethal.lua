@@ -22,7 +22,7 @@ att.Mult_CycleTime = 1.25
 att.Mult_ShootPitch = 1.15
 
 att.Override_ShootEntity = "arccw_gl_training"
-att.Mult_MuzzleVelocity = 40
+att.Mult_MuzzleVelocity = 5000
 
 att.MagReducer = true
 
