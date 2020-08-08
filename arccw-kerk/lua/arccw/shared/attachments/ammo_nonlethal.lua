@@ -7,7 +7,7 @@ att.Desc_Cons = {
     "Non-lethal bullets",
 }
 att.AutoStats = true
-att.Slot = "ammo_bullet"
+att.Slot = {"ammo_bullet", "ammo_shotgun"}
 
 att.Mult_Damage = 0.2
 att.Mult_DamageMin = 0.2
