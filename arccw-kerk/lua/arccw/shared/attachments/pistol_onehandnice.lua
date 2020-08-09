@@ -7,7 +7,7 @@ att.Desc_Pros = {
 att.Desc_Cons = {
 }
 att.Desc_Neutrals = {
-    "Improved holdtype"
+    "Visible 'pistol' holdtype"
 }
 att.AutoStats = true
 att.Slot = {"style_pistol", "foregrip"}

@@ -18,7 +18,7 @@ att.LHIKHide = true
 
 att.Mult_Recoil = 0.4
 att.Mult_RecoilSide = 0.4
-att.Mult_RecoilRise = 0.4
+att.Mult_RecoilRise = 0.5
 
 att.Mult_SightTime = 4
 att.Mult_HipDispersion = 1.5
