@@ -21,6 +21,6 @@ att.Mult_SightTime = 4
 att.Mult_HipDispersion = 1.5
 att.Mult_PrecisionMOA = 2.5
 att.Mult_SightedMoveSpeed = 0.2
-att.Override_HoldtypeActive = "shotgun"
+att.Override_HoldtypeActive = "slam"
 
 att.Override_ActivePos = Vector(0, 0, -2)
