@@ -20,10 +20,6 @@ att.Mult_AccuracyMOA = 1.25
 att.Mult_HipDispersion = 1.25
 att.Mult_SightsDispersion = 1.25
 
-att.Hook_Compatible = function(wep)
-    if not wep.ManualAction then return false end
-end
-
 att.Hook_SelectCycleAnimation = function(wep, anim)
     if wep.Animations["slam"] then return "slam" end
 end
