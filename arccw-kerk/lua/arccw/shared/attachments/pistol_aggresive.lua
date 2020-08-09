@@ -22,3 +22,5 @@ att.Mult_PrecisionMOA = 0.6
 att.Override_HoldtypeActive = "pistol"
 
 att.Override_ActivePos = Vector(0, 0, 4)
+
+att.Override_ShootWhileSprint = true

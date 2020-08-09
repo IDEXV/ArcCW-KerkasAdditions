@@ -28,3 +28,5 @@ att.Mult_SightedSpeedMult = 0.7
 att.Override_HoldtypeActive = "shotgun"
 
 att.Override_ActivePos = Vector(-6, 0, 0)
+
+att.Override_ShootWhileSprint = true

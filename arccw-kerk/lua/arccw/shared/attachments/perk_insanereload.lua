@@ -5,13 +5,25 @@ att.Desc_Pros = {
 }
 att.Desc_Cons = {
 }
+att.Desc_Neutrals = {
+    "Faster pumping when used on pump shotguns",
+}
 att.AutoStats = true
 att.Slot = "perk"
 
 att.Mult_ReloadTime = 0.75
 att.Mult_DrawTime = 0.75
 att.Mult_SightTime = 0.75
+att.Mult_CycleTime = 0.75
 
 att.Mult_AccuracyMOA = 1.25
 att.Mult_HipDispersion = 1.25
 att.Mult_SightsDispersion = 1.25
+
+att.Hook_Compatible = function(wep)
+    if not wep.ManualAction then return false end
+end
+
+att.Hook_SelectCycleAnimation = function(wep, anim)
+    if wep.Animations["slam"] then return "slam" end
+end

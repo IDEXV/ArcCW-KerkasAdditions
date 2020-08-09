@@ -24,3 +24,4 @@ att.Override_HoldtypeActive = "pistol"
 
 att.Mult_Recoil = 1.2
 att.Mult_RecoilSide = 1.2
+att.Override_ShootWhileSprint = true
