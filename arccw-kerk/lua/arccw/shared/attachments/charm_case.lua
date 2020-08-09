@@ -1,6 +1,6 @@
 att.PrintName = "Briefcase"
 att.Icon = Material("entities/acwatt_suitcase001.png")
-att.Description = "A briefcase found in a cavern. With this charm, you just can't forget your items."
+att.Description = "A briefcase found in a cavern. With this charm, you can't forget your items."
 
 att.Desc_Pros = {
 }
