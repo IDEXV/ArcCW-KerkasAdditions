@@ -2,10 +2,10 @@ att.PrintName = "Unknown Burst"
 att.Icon = Material("entities/acwatt_fcg_unknown.png")
 att.Description = "Modified firemode conversion allowing for 10-round burst. Made by KerkOTech."
 att.Desc_Pros = {
-    "+ Rapid Burst-fire mode"
+    "Rapid Burst-fire mode"
 }
 att.Desc_Cons = {
-    "- Burst delay"
+    "Burst delay"
 }
 att.Desc_Neutrals = {
     "Pretty bad"
