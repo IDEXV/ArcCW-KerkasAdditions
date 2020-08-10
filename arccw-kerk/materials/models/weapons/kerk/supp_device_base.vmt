@@ -1,4 +1,4 @@
 VertexLitGeneric
 {
-	$basetexture "kerk/supp_device_base.vtf"
+	$basetexture "models/weapons/kerk/supp_device_base.vtf"
 }
