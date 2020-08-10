@@ -1,5 +1,5 @@
 att.PrintName = "Sleight Of Hand"
-att.Icon = Material("entities/acwatt_perk_fastreload.png")
+att.Icon = Material("entities/acwatt_perk_madreload.png")
 att.Description = "Improves reloading and sight speed by 25% through improved weapon design and special training. The only downside is bad aiming."
 att.Desc_Pros = {
 }

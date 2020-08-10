@@ -1,5 +1,5 @@
 att.PrintName = "Russian Roulette"
-att.Icon = Material("entities/acwatt_perk_roulette.png")
+att.Icon = Material("entities/acwatt_perk_russian_roulette.png")
 att.Description = "Simulate the most dangerous game. Load only one shot into your gun, with each shot having a 1/6 chance to actually go off. Cannot point at self."
 att.Desc_Pros = {
     "Thrilling Game of Chance"

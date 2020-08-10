@@ -1,5 +1,5 @@
 att.PrintName = "Steady Hands"
-att.Icon = Material("entities/acwatt_perk_lightweight.png")
+att.Icon = Material("entities/acwatt_perk_steady.png")
 att.Description = "Buffed arms allow for decreased weapon recoil. Your only problem is bad accuracy and hip fire spread."
 att.Desc_Pros = {
 }

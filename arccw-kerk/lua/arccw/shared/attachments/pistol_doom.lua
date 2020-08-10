@@ -1,5 +1,5 @@
 att.PrintName = "Doom Style"
-att.Icon = Material("entities/acwatt_pistol_onehand.png")
+att.Icon = Material("entities/acwatt_pistol_doom.png")
 att.Description = "An ancient style of holding a gun. Makes the weapon hard to handle."
 att.Desc_Pros = {
     "+ Recoil control",

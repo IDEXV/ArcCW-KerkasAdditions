@@ -1,5 +1,5 @@
 att.PrintName = "Stealth Suppressor"
-att.Icon = Material("entities/acwatt_supp_med.png")
+att.Icon = Material("entities/acwatt_supp_stealth.png")
 att.Description = "A modified light weapon suppressor, with enhanced sound-suppressing qualities. Due to the modifications, the suppressor negatively impacts ballistic performance and effective weapon range. This suppressor is only effective when used on pistols."
 att.Desc_Pros = {
 }

@@ -1,5 +1,5 @@
 att.PrintName = "Improved Suppressor"
-att.Icon = Material("entities/acwatt_supp_med.png")
+att.Icon = Material("entities/acwatt_supp_integr.png")
 att.Description = "Improved tactical sound suppressor. Moderately improves performance and still manages to dampen the weapon noise."
 att.Desc_Pros = {
 }

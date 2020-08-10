@@ -1,5 +1,5 @@
 att.PrintName = "KerBurst"
-att.Icon = Material("entities/acwatt_fcg_megaburst.png")
+att.Icon = Material("entities/acwatt_fcg_kerbon.png")
 att.Description = "Insane firemode conversion, which allows for 10-round burst at insane firerate. This mechanism can break the weapon, reduced magazines are issued. Made by KerkOTech."
 att.Desc_Pros = {
     "Insane burst-fire",

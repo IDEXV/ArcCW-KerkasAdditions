@@ -1,5 +1,5 @@
 att.PrintName = "Can Suppressor"
-att.Icon = Material("entities/acwatt_supp_heavy.png")
+att.Icon = Material("entities/acwatt_supp_can.png")
 att.Description = "An improvised suppressor, made out of a tin can. Somewhat makes the weapon quieter, but the suppressor is quite heavy."
 att.Desc_Pros = {
 }

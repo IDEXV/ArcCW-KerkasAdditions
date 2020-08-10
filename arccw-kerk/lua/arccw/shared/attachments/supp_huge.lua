@@ -1,5 +1,5 @@
 att.PrintName = "Huge Suppressor"
-att.Icon = Material("entities/acwatt_supp_heavy.png")
+att.Icon = Material("entities/acwatt_supp_huge.png")
 att.Description = "A huge sound suppressor with superior ballistic-enhancing qualities. Very heavy."
 att.Desc_Pros = {
 }
