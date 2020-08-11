@@ -1,5 +1,5 @@
 att.PrintName = "Hip Style"
-att.Icon = Material("entities/acwatt_pistol_onehand.png")
+att.Icon = Material("entities/acwatt_pistol_hip.png")
 att.Description = "A shooting style that lowers the gun and uses one's sheer body mass to absorb recoil. Amazing control at the cost of precision and slow aiming."
 att.Desc_Pros = {
     "+ Incredible recoil control",

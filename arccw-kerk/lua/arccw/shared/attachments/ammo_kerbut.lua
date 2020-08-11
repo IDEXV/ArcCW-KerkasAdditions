@@ -1,5 +1,5 @@
 att.PrintName = "KerZX-50"
-att.Icon = Material("entities/ammo_mod.png")
+att.Icon = Material("entities/ammo_kerbut.png")
 att.Description = "Modified KerPX-20 ammunition with increased power loads. Increased power loads allow for more long range activities and armor penetration. The downsides is insane weapon recoil and weapon volume."
 att.Desc_Pros = {
 }

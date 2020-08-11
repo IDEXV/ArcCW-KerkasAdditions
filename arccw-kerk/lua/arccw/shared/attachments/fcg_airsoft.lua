@@ -1,5 +1,5 @@
 att.PrintName = "Airsoft FCG"
-att.Icon = Material("entities/ammo_fcg_improved.png")
+att.Icon = Material("entities/ammo_fcg_airsoft.png")
 att.Description = "Firemode conversion allowing for 150% faster shooting. This firemode conversion is used for Airsoft weaponry. The downside of this FCG is increased weapon weight."
 att.Desc_Pros = {
 }

@@ -1,5 +1,5 @@
 att.PrintName = "Rail Ammo"
-att.Icon = Material("entities/ammo_mod.png")
+att.Icon = Material("entities/ammo_rail.png")
 att.Description = "Modified firing mechanism and custom bullets allow for 'railgun'-like firing, at the cost of weapon recoil and decreased close range damage. Due to the nature of the bullets, reduced magazines are issued."
 att.Desc_Pros = {
 }

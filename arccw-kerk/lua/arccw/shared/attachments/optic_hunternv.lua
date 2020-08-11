@@ -1,5 +1,5 @@
 att.PrintName = "Hunter NV (2-5x)"
-att.Icon = Material("entities/acwatt_optic_hunter.png")
+att.Icon = Material("entities/acwatt_optic_hunternv.png")
 att.Description = "Adjustable medium-long range sniper optic with a night vision device attached."
 
 att.SortOrder = 4

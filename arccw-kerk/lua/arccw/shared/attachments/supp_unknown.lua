@@ -1,5 +1,5 @@
 att.PrintName = "Prototype Suppressor"
-att.Icon = Material("entities/acwatt_supp_heavy.png")
+att.Icon = Material("entities/acwatt_supp_prototype.png")
 att.Description = "Large prototype sound suppressor with insane ballistic-enhancing qualities. Many suppressor modifications make the weapon very bulky. Made by KerkOTech."
 att.Desc_Pros = {
 }

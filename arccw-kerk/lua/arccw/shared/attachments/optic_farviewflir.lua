@@ -1,5 +1,5 @@
 att.PrintName = "Farview FLIR (4-9x)"
-att.Icon = Material("entities/acwatt_optic_farview.png")
+att.Icon = Material("entities/acwatt_optic_farviewflir.png")
 att.Description = "Heavily modified Farview optic for long range combat. This scope has a FLIR device modified to work with the scope."
 
 att.SortOrder = 7

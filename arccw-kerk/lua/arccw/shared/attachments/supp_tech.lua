@@ -1,9 +1,10 @@
 att.PrintName = "Suppressor Device"
-att.Icon = Material("entities/acwatt_supp_med.png")
+att.Icon = Material("entities/acwatt_supp_tech.png")
 att.Description = "A balanced sound suppressor, with a strange device attached. Moderately improves performance, and decreases weapon recoil. The downside is increased weapon weight."
 att.Desc_Pros = {
 }
 att.Desc_Cons = {
+    "- May obstruct sights"
 }
 att.AutoStats = true
 att.Slot = "muzzle"

@@ -1,5 +1,5 @@
 att.PrintName = "Farview NV (4-9x)"
-att.Icon = Material("entities/acwatt_optic_farview.png")
+att.Icon = Material("entities/acwatt_optic_farviewnv.png")
 att.Description = "High-magnification sniper rifle scope for long range combat. Has a night vision device attached, thus making the optic heavier."
 
 att.SortOrder = 7

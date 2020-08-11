@@ -1,5 +1,5 @@
 att.PrintName = "Aggression"
-att.Icon = Material("entities/acwatt_perk_aggression.png", "smooth mips")
+att.Icon = Material("entities/acwatt_perk_aggression.png")
 att.Description = "Concentrate all your fury into every bash for increased melee damage. Your fury allows for faster reloading. The downside is bad recoil control and weapon accuracy."
 att.Desc_Pros = {
 }

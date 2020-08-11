@@ -1,5 +1,5 @@
 att.PrintName = "AM Muzzle Brake"
-att.Icon = Material("entities/acwatt_muzz_brake.png")
+att.Icon = Material("entities/acwatt_muzz_hbrake.png")
 att.Description = "A huge muzzle brake that is used on anti-materiel sniper rifles. Improves vertical recoil, but makes recoil less stable."
 att.Desc_Pros = {
 }

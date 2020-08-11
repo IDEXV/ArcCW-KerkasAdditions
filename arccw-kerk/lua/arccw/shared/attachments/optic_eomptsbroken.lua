@@ -1,5 +1,5 @@
 att.PrintName = "KOMPNVS (Broken)"
-att.Icon = Material("entities/acwatt_optic_eompts.png")
+att.Icon = Material("entities/acwatt_optic_eomptsbr.png")
 att.Description = "A broken KOMPNVS scope."
 
 att.SortOrder = 40

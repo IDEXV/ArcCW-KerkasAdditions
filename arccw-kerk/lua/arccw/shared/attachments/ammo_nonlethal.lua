@@ -1,5 +1,5 @@
 att.PrintName = "Rubber Ammo"
-att.Icon = Material("entities/ammo_mod.png")
+att.Icon = Material("entities/ammo_nonlethal.png")
 att.Description = "Special rubber bullets used for riot control. These bullets are mainly non-lethal, but massive overuse can cause severe blunt trauma. Perfect when you want to stop somebody from escaping."
 att.Desc_Pros = {
 }
