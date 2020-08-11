@@ -5,13 +5,10 @@ att.Desc_Pros = {
     "+ Incredible recoil control",
 }
 att.Desc_Cons = {
-    "- Sight time",
-    "- Hip fire accuracy",
-    "- Precision",
-    "- Sighted strafe speed",
 }
 att.Slot = {"style_pistol", "foregrip"}
 att.Free = true
+att.AutoStats = true
 
 att.LHIK = true
 att.LHIKHide = true
@@ -21,8 +18,7 @@ att.Mult_RecoilSide = 0.4
 att.Mult_RecoilRise = 0.5
 
 att.Mult_SightTime = 4
-att.Mult_HipDispersion = 1.5
-att.Mult_PrecisionMOA = 2.5
+att.Mult_PrecisionMOA = 0.8
 att.Mult_SightedMoveSpeed = 0.2
 att.Override_HoldtypeActive = "slam"
 

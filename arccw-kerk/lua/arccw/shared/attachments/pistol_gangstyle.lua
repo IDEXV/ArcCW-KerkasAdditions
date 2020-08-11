@@ -2,15 +2,13 @@ att.PrintName = "Bandit Style"
 att.Icon = Material("entities/acwatt_pistol_gang.png")
 att.Description = "A sideways shooting style that allows for the muzzle climb of a pistol to sweep a room, coined for its use in the warlord era of China."
 att.Desc_Pros = {
-    "+ Sideways recoil",
     "Shoot while sprinting"
 }
 att.Desc_Cons = {
-    "- Recoil control",
-    "- Recoil stability"
 }
 att.Slot = "style_pistol"
 att.Free = true
+att.AutoStats = true
 
 att.LHIK = true
 att.LHIKHide = true
