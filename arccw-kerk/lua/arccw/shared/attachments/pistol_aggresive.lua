@@ -3,6 +3,7 @@ att.Icon = Material("entities/acwatt_pistol_aggr.png")
 att.Description = "A shooting style that is commonly used by street gangsters. Weapon position allows for more precision, at the cost of weapon recoil and slow aiming."
 att.Desc_Pros = {
     "+ Grove Street, Home",
+    "+ Shoot while sprinting"
 }
 att.Desc_Cons = {
 }
