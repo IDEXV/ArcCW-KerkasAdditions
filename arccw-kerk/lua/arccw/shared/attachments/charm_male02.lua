@@ -1,5 +1,5 @@
 att.PrintName = "Male_02"
-att.Icon = Material("entities/acwatt_charm_physgun.png")
+att.Icon = Material("entities/acwatt_charm_male02.png")
 att.Description = "A male_02."
 
 att.Desc_Pros = {
