@@ -2,7 +2,7 @@ att.PrintName = "Cowboy Style (Improved)"
 att.Icon = Material("entities/acwatt_pistol_onehand.png")
 att.Description = "A one-handed shooting style which improves maneuverability but reduces recoil control."
 att.Desc_Pros = {
-    "+ Shoot while sprinting"
+    "Shoot while sprinting"
 }
 att.Desc_Cons = {
 }

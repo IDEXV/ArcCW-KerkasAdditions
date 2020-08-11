@@ -3,7 +3,7 @@ att.Icon = Material("entities/acwatt_pistol_doom.png")
 att.Description = "An ancient style of holding a gun. Makes the weapon hard to handle."
 att.Desc_Pros = {
     "+ Recoil control",
-    "+ Shoot while sprinting"
+    "Shoot while sprinting"
 }
 att.Desc_Cons = {
     "- Hip fire accuracy",
@@ -15,7 +15,6 @@ att.Desc_Cons = {
 }
 att.Slot = "foregrip"
 att.Free = true
-att.Ignore = true
 
 att.Mult_Recoil = 0.4
 att.Mult_RecoilSide = 0.4
