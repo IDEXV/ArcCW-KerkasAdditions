@@ -1,6 +1,6 @@
 att.PrintName = "Can Suppressor"
 att.Icon = Material("entities/acwatt_supp_can.png")
-att.Description = "An improvised suppressor, made out of a tin can. Somewhat makes the weapon quieter, but the suppressor is quite heavy."
+att.Description = "A soda can used as an improvised suppressor. Somewhat makes the weapon quieter, but the suppressor is quite heavy."
 att.Desc_Pros = {
 }
 att.Desc_Cons = {
@@ -9,7 +9,7 @@ att.Desc_Cons = {
 att.AutoStats = true
 att.Slot = {"muzzle", "muzzle_shotgun"}
 
-att.Model = "models/weapons/arccw/atts/supp_heavy.mdl"
+att.Model = "models/weapons/arccw/atts/supp_prototype.mdl"
 
 att.Silencer = true
 att.Override_MuzzleEffect = "muzzleflash_suppressed"

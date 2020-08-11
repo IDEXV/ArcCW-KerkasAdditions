@@ -9,7 +9,6 @@ att.Desc_Pros = {
     "+ Night vision picture"
 }
 att.Desc_Cons = {
-    "- Visible scope glint",
 }
 att.AutoStats = true
 att.Slot = "optic"

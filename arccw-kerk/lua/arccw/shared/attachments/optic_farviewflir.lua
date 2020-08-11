@@ -10,7 +10,6 @@ att.Desc_Pros = {
     "+ Thermal vision"
 }
 att.Desc_Cons = {
-    "- Visible scope glint",
 }
 att.AutoStats = true
 att.Slot = "optic_sniper"

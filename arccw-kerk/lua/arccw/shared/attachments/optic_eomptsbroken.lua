@@ -1,14 +1,14 @@
 att.PrintName = "KOMPNVS (Broken)"
 att.Icon = Material("entities/acwatt_optic_eomptsbr.png")
-att.Description = "A broken KOMPNVS scope."
+att.Description = "A KOMPNVS scope with a broken night vision device. Might be useful."
 
 att.SortOrder = 40
 
 att.Desc_Pros = {
     "+ Precision sight picture",
+    "+ Night vision picture"
 }
 att.Desc_Cons = {
-    "- Visible scope glint",
 }
 att.AutoStats = true
 att.Slot = "optic"
