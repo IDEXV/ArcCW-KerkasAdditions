@@ -4,6 +4,7 @@ att.Description = "A modified light weapon suppressor, with enhanced sound-suppr
 att.Desc_Pros = {
 }
 att.Desc_Cons = {
+    "- May obstruct sights"
 }
 att.AutoStats = true
 att.Slot = "muzzle"
