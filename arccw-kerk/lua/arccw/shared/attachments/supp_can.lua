@@ -4,7 +4,7 @@ att.Description = "A soda can used as an improvised suppressor. Somewhat makes t
 att.Desc_Pros = {
 }
 att.Desc_Cons = {
-    "- May obstruct sights"
+    "May obstruct sights"
 }
 att.AutoStats = true
 att.Slot = {"muzzle", "muzzle_shotgun"}

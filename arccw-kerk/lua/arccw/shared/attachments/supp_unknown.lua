@@ -4,7 +4,7 @@ att.Description = "Large prototype sound suppressor with insane ballistic-enhanc
 att.Desc_Pros = {
 }
 att.Desc_Cons = {
-    "- May obstruct sights"
+    "May obstruct sights"
 }
 att.AutoStats = true
 att.Slot = {"muzzle", "muzzle_shotgun"}
