@@ -2,7 +2,6 @@ att.PrintName = "C-Mags"
 att.Icon = Material("entities/acwatt_park_cmags.png")
 att.Description = "High-capacity, C-Shaped magazines allow for even more time before needing to reload, but slow down reloading and increase weapon recoil."
 att.Desc_Pros = {
-    "++ More ammo",
 }
 att.Desc_Cons = {
 }
@@ -19,7 +18,7 @@ att.ActivateElements = {"extendedmag"}
 
 att.Mult_SightTime = 1.35
 att.Mult_DrawTime = 1.35
-att.Mult_MeleeDamage = 1.30
+att.Mult_MeleeDamage = 1.25
 att.Mult_MeleeAttackTime = 1.25
 
 att.Mult_HipDispersion = 1.35
