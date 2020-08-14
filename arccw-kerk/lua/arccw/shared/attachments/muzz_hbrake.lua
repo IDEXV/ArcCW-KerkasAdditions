@@ -11,15 +11,15 @@ att.Slot = {"muzzle", "muzzle_shotgun"}
 att.Model = "models/weapons/arccw/atts/muzz_brake.mdl"
 
 att.Mult_ShootPitch = 0.91
-att.Mult_ShootVol = 1.18
+att.Mult_ShootVol = 1.25
 
-att.Mult_SightTime = 1.25
+att.Mult_SightTime = 1.40
 
-att.Add_BarrelLength = 4
+att.Add_BarrelLength = 5
 
 att.Hook_Compatible = function(wep)
     if wep.Num ~= 1 or (wep.Primary.Ammo ~= "SniperPenetratedRound") then return false end
 end
 
 att.Mult_Recoil = 0.50
-att.Mult_RecoilSide = 3
+att.Mult_RecoilSide = 3.25
