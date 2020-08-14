@@ -1,4 +1,4 @@
-att.PrintName = "KOMPNVS (NV)"
+att.PrintName = "KOMPNVS"
 att.Icon = Material("entities/acwatt_optic_eomptsnv.png")
 att.Description = "A modified version of the KOMPS, but with a night vision device attached. Quite heavy."
 

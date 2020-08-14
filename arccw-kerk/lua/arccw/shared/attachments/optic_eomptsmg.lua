@@ -1,5 +1,5 @@
 att.PrintName = "KOMPS"
-att.Icon = Material("entities/acwatt_optic_eompts.png")
+att.Icon = Material("entities/acwatt_optic_kompts.png")
 att.Description = "Light prototype scope. KOMPS stands for 'KerkOTech Miniature Prototype Sight'."
 
 att.SortOrder = 40
