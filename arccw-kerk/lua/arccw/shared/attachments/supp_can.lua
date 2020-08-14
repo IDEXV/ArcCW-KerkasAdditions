@@ -14,6 +14,7 @@ att.Model = "models/weapons/arccw/atts/supp_prototype.mdl"
 att.Silencer = true
 att.Override_MuzzleEffect = "muzzleflash_suppressed"
 att.IsMuzzleDevice = true
+att.Ignore = true
 
 att.Mult_ShootPitch = 0.9
 att.Mult_ShootVol = 0.95
