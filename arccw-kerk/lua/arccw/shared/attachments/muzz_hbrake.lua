@@ -21,5 +21,5 @@ att.Hook_Compatible = function(wep)
     if wep.Num ~= 1 or (wep.Primary.Ammo ~= "SniperPenetratedRound") then return false end
 end
 
-att.Mult_Recoil = 0.40
+att.Mult_Recoil = 0.60
 att.Mult_RecoilSide = 3

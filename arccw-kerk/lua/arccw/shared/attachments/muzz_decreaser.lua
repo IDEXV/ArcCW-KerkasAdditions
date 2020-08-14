@@ -12,11 +12,11 @@ att.Model = "models/weapons/arccw/atts/muzz_compensator.mdl"
 
 att.Mult_ShootPitch = 1.3
 
-att.Mult_SightTime = 1.25
+att.Mult_SightTime = 1.30
 
 att.Add_BarrelLength = 5
 
-att.Mult_Recoil = 0.75
+att.Mult_Recoil = 0.85
 att.Mult_RecoilSide = 0.85
 
-att.Mult_SightedMoveSpeed = 0.85
+att.Mult_SightedMoveSpeed = 0.90
