@@ -12,7 +12,7 @@ att.Desc_Neutrals = {
 att.AutoStats = true
 att.Slot = "ammo_shotgun"
 
-att.Override_Num = 6
+att.Override_Num = 4
 
 att.Mult_Damage = 0.2
 att.Mult_DamageMin = 0.2
@@ -27,7 +27,7 @@ att.Mult_CycleTime = 1.25
 att.Mult_ShootPitch = 1.15
 
 att.Override_ShootEntity = "arccw_gl_training"
-att.Mult_MuzzleVelocity = 10000
+att.Mult_MuzzleVelocity = 5000
 
 att.MagReducer = true
 
