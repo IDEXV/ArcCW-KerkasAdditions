@@ -5,8 +5,8 @@ att.Description = "A modified ACOG for pistols. The downside of this modified op
 att.SortOrder = 2
 
 att.Desc_Pros = {
-    "+ Precision sight picture",
-    "+ Zoom",
+    "Precision sight picture"
+    "Increased zoom"
 }
 att.Desc_Cons = {
 }

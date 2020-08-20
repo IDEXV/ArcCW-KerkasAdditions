@@ -25,7 +25,3 @@ att.Mult_ShootPitch = 1.10
 att.Hook_Compatible = function(wep)
     if wep.Num ~= 1 or (wep.Primary.Ammo ~= "SniperPenetratedRound" and wep.Primary.Ammo ~= "357") then return false end
 end
-
-att.MagReducer = true
-
-att.ActivateElements = {"reducedmag"}

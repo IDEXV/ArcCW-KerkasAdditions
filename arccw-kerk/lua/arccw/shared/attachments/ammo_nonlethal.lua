@@ -4,10 +4,10 @@ att.Description = "Special rubber bullets used for riot control. These bullets a
 att.Desc_Pros = {
 }
 att.Desc_Cons = {
-    "Non-lethal bullets",
 }
 att.Desc_Neutrals = {
     "These rubber bullets can easily kill someone",
+    "Kinda OP against players, expect raging"
 }
 att.AutoStats = true
 att.Slot = "ammo_shotgun"

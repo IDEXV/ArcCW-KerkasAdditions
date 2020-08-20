@@ -1,13 +1,13 @@
-att.PrintName = "Hunter NV (2-5x)"
-att.Icon = Material("entities/acwatt_optic_hunternv.png")
-att.Description = "Adjustable medium-long range sniper optic with a night vision device attached."
+att.PrintName = "Hunter FLIR (2-5x)"
+att.Icon = Material("entities/acwatt_optic_hunter.png")
+att.Description = "Adjustable medium-long range sniper optic with a FLIR vision device attached."
 
 att.SortOrder = 4
 
 att.Desc_Pros = {
     "Precision sight picture"
     "Increased zoom"
-    "Night vision picture"
+    "Thermal vision"
 }
 att.Desc_Cons = {
 }
@@ -23,10 +23,8 @@ att.AdditionalSights = {
         Magnification = 2.25,
         ScrollFunc = ArcCW.SCROLL_ZOOM,
         ZoomLevels = 6,
-        NVScope = true,
-        NVScopeColor = Color(0, 255, 100),
-        NVFullColor = false,
         ZoomSound = "weapons/arccw/fiveseven/fiveseven_slideback.wav",
+        Thermal = true,
         IgnoreExtra = true
     }
 }
