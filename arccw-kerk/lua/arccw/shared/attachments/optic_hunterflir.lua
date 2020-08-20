@@ -1,5 +1,5 @@
 att.PrintName = "Hunter FLIR (2-5x)"
-att.Icon = Material("entities/acwatt_optic_hunter.png")
+att.Icon = Material("entities/acwatt_optic_hunterflir.png")
 att.Description = "Adjustable medium-long range sniper optic with a FLIR vision device attached."
 
 att.SortOrder = 4
