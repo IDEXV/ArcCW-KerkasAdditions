@@ -6,7 +6,7 @@ att.Desc_Pros = {
 att.Desc_Cons = {
 }
 att.Desc_Neutrals = {
-    "No full-auto in the buildings"
+    "No full-auto in the buildings",
 }
 att.AutoStats = true
 att.Slot = "fcg"

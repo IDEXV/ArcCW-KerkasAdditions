@@ -5,8 +5,8 @@ att.Description = "Light prototype scope. KOMPS stands for 'KerkOTech Miniature 
 att.SortOrder = 40
 
 att.Desc_Pros = {
-    "Precision sight picture"
-    "Increased zoom"
+    "Precision sight picture",
+    "Increased zoom",
 }
 att.Desc_Cons = {
 }

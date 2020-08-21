@@ -2,7 +2,7 @@ att.PrintName = "Doom Style"
 att.Icon = Material("entities/acwatt_pistol_doom.png")
 att.Description = "An ancient style of holding a weapon. It's seems oddly familiar."
 att.Desc_Pros = {
-    "Shoot while sprinting"
+    "Shoot while sprinting",
 }
 att.Desc_Cons = {
 }

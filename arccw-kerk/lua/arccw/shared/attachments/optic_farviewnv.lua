@@ -5,9 +5,9 @@ att.Description = "High-magnification sniper rifle scope for long range combat. 
 att.SortOrder = 7
 
 att.Desc_Pros = {
-    "Precision sight picture"
-    "Increased zoom"
-    "Night vision picture"
+    "Precision sight picture",
+    "Increased zoom",
+    "Night vision picture",
 }
 att.Desc_Cons = {
 }

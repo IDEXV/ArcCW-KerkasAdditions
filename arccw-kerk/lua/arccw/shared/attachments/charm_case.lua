@@ -7,7 +7,7 @@ att.Desc_Pros = {
 att.Desc_Cons = {
 }
 att.Desc_Neutrals = {
-    "Might have clipping issues on some weapons"
+    "Might have clipping issues on some weapons",
 }
 att.AutoStats = true
 att.Slot = "charm"

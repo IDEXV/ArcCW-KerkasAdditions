@@ -5,9 +5,9 @@ att.Description = "Heavily modified Farview optic for long range combat. This sc
 att.SortOrder = 7
 
 att.Desc_Pros = {
-    "Precision sight picture"
-    "Increased zoom"
-    "Thermal vision"
+    "Precision sight picture",
+    "Increased zoom",
+    "Thermal vision",
 }
 att.Desc_Cons = {
 }

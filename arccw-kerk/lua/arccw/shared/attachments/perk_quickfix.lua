@@ -2,21 +2,24 @@ att.PrintName = "Quick Fix"
 att.Icon = Material("entities/acwatt_perk_quickfix.png")
 att.Description = "Special bullets heal shooter on successfull hits. The downsides is decreased weapon efficiency."
 att.Desc_Pros = {
-    "Steal health from enemies"
+    "Steal health from enemies",
 }
 att.Desc_Cons = {
 }
 att.AutoStats = true
 att.Slot = "perk"
+att.Ignore = true
 
 att.Mult_Damage = 0.3
 att.Mult_DamageMin = 0.3
-att.Mult_AccuracyMOA = 1.25
-att.Mult_HipDispersion = 1.25
-att.Mult_SightsDispersion = 1.25
-att.Mult_DrawTime = 1.25
-att.Mult_SightTime = 1.25
-att.Mult_CycleTime = 1.25
+att.Mult_AccuracyMOA = 1.35
+att.Mult_HipDispersion = 1.35
+att.Mult_SightsDispersion = 1.35
+att.Mult_DrawTime = 1.35
+att.Mult_SightTime = 1.35
+att.Mult_CycleTime = 1.35
+att.Mult_Range = 0.85
+att.Mult_ReloadTime = 1.25
 
 att.Hook_BulletHit = function(wep, data)
     if !data.tr.Entity then return end
@@ -27,5 +30,5 @@ att.Hook_BulletHit = function(wep, data)
 
     if wep.Owner:Health() > wep.Owner:GetMaxHealth() then return end
 
-    wep.Owner:SetHealth(math.Clamp(wep.Owner:Health() + (data.damage * 0.2), 0, wep.Owner:GetMaxHealth()))
+    wep.Owner:SetHealth(math.Clamp(wep.Owner:Health() + (data.damage * 0.5), 0, wep.Owner:GetMaxHealth()))
 end

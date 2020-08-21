@@ -5,8 +5,8 @@ att.Description = "A portable boxy holographic sight specifically designed for p
 att.SortOrder = 0.5
 
 att.Desc_Pros = {
-    "Precision sight picture"
-    "Increased zoom"
+    "Precision sight picture",
+    "Increased zoom",
 }
 att.Desc_Cons = {
 }

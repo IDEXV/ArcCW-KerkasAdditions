@@ -3,7 +3,7 @@ att.Icon = Material("entities/ammo_splitter.png")
 att.Description = "Heavily modified HP+ bullets that split into 5 bullets when shot. Made by KerkOTech."
 att.Desc_Pros = {
     "+ Bullet count",
-    "++ Hit Zone"
+    "++ Hit Zone",
 }
 att.Desc_Cons = {
 }

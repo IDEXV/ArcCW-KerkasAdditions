@@ -5,9 +5,9 @@ att.Description = "A modified version of the KOMPS, but with a night vision devi
 att.SortOrder = 40
 
 att.Desc_Pros = {
-    "Precision sight picture"
-    "Increased zoom"
-    "Night vision picture"
+    "Precision sight picture",
+    "Increased zoom",
+    "Night vision picture",
 }
 att.Desc_Cons = {
 }

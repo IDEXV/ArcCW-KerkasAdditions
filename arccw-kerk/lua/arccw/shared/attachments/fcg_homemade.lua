@@ -6,7 +6,7 @@ att.Desc_Pros = {
 att.Desc_Cons = {
 }
 att.Desc_Neutrals = {
-    "Worst FCG"
+    "Worst FCG",
 }
 att.AutoStats = true
 att.Slot = "fcg"

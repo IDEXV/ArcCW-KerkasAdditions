@@ -5,7 +5,7 @@ att.Desc_Pros = {
 }
 att.Desc_Cons = {
     "Semi-automatic fire only",
-    "May obstruct sights"
+    "May obstruct sights",
 }
 att.AutoStats = true
 att.Slot = "muzzle"

@@ -5,9 +5,9 @@ att.Description = "Adjustable medium-long range sniper optic with a FLIR vision 
 att.SortOrder = 4
 
 att.Desc_Pros = {
-    "Precision sight picture"
-    "Increased zoom"
-    "Thermal vision"
+    "Precision sight picture",
+    "Increased zoom",
+    "Thermal vision",
 }
 att.Desc_Cons = {
 }
