@@ -16,13 +16,14 @@ att.Slot = "ammo_bullet"
 att.Override_Num = 5
 
 att.Mult_ShootPitch = 0.90
-att.Mult_Damage = 1.5
+att.Mult_Damage = 1.3
 att.Mult_DamageMin = 0.1
 att.Mult_Penetration = 0.10
-att.Mult_AccuracyMOA = 6
+att.Mult_Range = 0.70
+att.Mult_AccuracyMOA = 9
 att.Mult_Recoil = 1.35
-att.Mult_HipDispersion = 1.35
-att.Mult_SightsDispersion = 1.35
+att.Mult_HipDispersion = 1.55
+att.Mult_SightsDispersion = 9
 
 att.Hook_Compatible = function(wep)
     if wep.Num ~= 1 or (wep.Primary.Ammo ~= "smg1" and wep.Primary.Ammo ~= "ar2") then return false end
