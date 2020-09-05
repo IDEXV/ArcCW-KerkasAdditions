@@ -1,6 +1,6 @@
 att.PrintName = "Can Suppressor"
 att.Icon = Material("entities/acwatt_supp_can.png")
-att.Description = "A soda can used as an improvised suppressor. Somewhat makes the weapon quieter, but the suppressor is quite heavy."
+att.Description = "A soda can used as an improvised suppressor. Somewhat makes the weapon quieter, but the can is fragile, it will break after 10 shots."
 att.Desc_Pros = {
 }
 att.Desc_Cons = {
@@ -25,3 +25,10 @@ att.Mult_SightTime = 1.2
 att.Mult_DrawTime = 1.2
 
 att.Add_BarrelLength = 24
+
+att.DamageOnShoot = 1
+att.Health = 10
+
+att.Hook_AttDestroyed = function(wep, data)
+    wep:EmitSound("weapons/arccw/supp_break.wav", 75, 100, 1, CHAN_STATIC)
+end
