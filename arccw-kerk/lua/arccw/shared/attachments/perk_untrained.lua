@@ -6,7 +6,7 @@ att.Desc_Pros = {
 att.Desc_Cons = {
 }
 att.Desc_Neutrals = {
-    "Might be useful for RP's",
+    "Useful for roleplay",
 }
 att.AutoStats = true
 att.Slot = "perk"

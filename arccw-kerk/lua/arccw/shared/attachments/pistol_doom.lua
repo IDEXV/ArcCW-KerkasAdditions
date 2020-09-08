@@ -1,6 +1,6 @@
 att.PrintName = "Doom Style"
 att.Icon = Material("entities/acwatt_pistol_doom.png")
-att.Description = "An ancient style of holding a weapon. It's seems oddly familiar."
+att.Description = "This style seems oddly familiar."
 att.Desc_Pros = {
     "Shoot while sprinting",
 }
@@ -9,7 +9,7 @@ att.Desc_Cons = {
 att.Desc_Neutrals = {
     "Might be broken on some weapons",
 }
-att.Slot = {"style_pistol", "foregrip"}
+att.Slot = "foregrip"
 att.Free = true
 att.AutoStats = true
 
