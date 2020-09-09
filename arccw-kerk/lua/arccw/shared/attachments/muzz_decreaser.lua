@@ -19,4 +19,4 @@ att.Add_BarrelLength = 5
 att.Mult_Recoil = 0.75
 att.Mult_RecoilSide = 0.75
 
-att.Mult_SightedMoveSpeed = 0.90
+att.Mult_SightedMoveSpeed = 0.75

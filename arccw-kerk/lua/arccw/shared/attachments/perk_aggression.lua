@@ -1,6 +1,6 @@
 att.PrintName = "Aggression"
 att.Icon = Material("entities/acwatt_perk_aggression.png")
-att.Description = "Concentrate all your fury into every bash for increased melee damage. Your fury allows for faster reloading. The downside is bad recoil control and weapon accuracy."
+att.Description = "Concentrate all your fury into every bash for increased melee damage. Your fury allows for slightly faster reloading. The downside is bad recoil control and weapon accuracy."
 att.Desc_Pros = {
 }
 att.Desc_Cons = {
@@ -13,7 +13,7 @@ att.AutoStats = true
 att.Mult_MeleeDamage = 1.50
 att.Mult_MeleeTime = 1.35
 att.Mult_DrawTime = 0.9
-att.Mult_ReloadTime = 0.85
+att.Mult_ReloadTime = 0.95
 
 att.Mult_AccuracyMOA = 1.30
 att.Mult_HipDispersion = 1.30

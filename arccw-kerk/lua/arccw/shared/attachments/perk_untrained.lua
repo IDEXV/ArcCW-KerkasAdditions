@@ -11,6 +11,8 @@ att.Desc_Neutrals = {
 att.AutoStats = true
 att.Slot = "perk"
 
+att.NotForNPC = true
+
 att.Mult_ReloadTime = 1.25
 att.Mult_DrawTime = 1.25
 att.Mult_SightTime = 1.25

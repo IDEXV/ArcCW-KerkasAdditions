@@ -8,6 +8,8 @@ att.Desc_Cons = {
 att.AutoStats = true
 att.Slot = "perk"
 
+att.NotForNPC = true
+
 att.Mult_SpeedMult = 1.20
 att.Mult_SightedSpeedMult = 1.20
 

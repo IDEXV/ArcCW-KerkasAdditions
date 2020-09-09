@@ -8,6 +8,8 @@ att.Desc_Cons = {
 att.AutoStats = true
 att.Slot = "perk"
 
+att.NotForNPC = true
+
 att.Mult_Recoil = 0.7
 att.Mult_MeleeDamage = 1.20
 

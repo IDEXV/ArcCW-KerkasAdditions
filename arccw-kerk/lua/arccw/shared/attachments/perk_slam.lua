@@ -2,7 +2,7 @@ att.PrintName = "Slamfire"
 att.Icon = Material("entities/acwatt_perk_slam.png")
 att.Description = "Modifications to the pump allows for an immediate followup shot after cycling while holding the trigger. Grants pesudo-automatic firing and increases cycle speed."
 att.Desc_Pros = {
-    "+ Slamfire",
+    "Slamfire",
 }
 att.Desc_Cons = {
 }
