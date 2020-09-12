@@ -1,5 +1,5 @@
 att.PrintName = "5,56mm+ Ammo"
-att.Icon = Material("entities/ammo_extended.png")
+att.Icon = Material("entities/ammo_50cal.png")
 att.Description = "Improved 5,56mm ammunition allows for more close range damage without downsides."
 att.Desc_Pros = {
 }
