@@ -21,7 +21,7 @@ att.Mult_Range = 1.25
 
 att.Mult_SightTime = 1.8
 att.Mult_HipDispersion = 1.8
-att.Mult_ReloadTime = 1.8
+att.Mult_ReloadTime = 1.3
 att.Mult_AccuracyMOA = 1.8
 att.Mult_DrawTime = 1.8
 att.Mult_CycleTime = 1.8

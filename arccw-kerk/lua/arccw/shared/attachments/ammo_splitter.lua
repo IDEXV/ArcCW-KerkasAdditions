@@ -2,13 +2,12 @@ att.PrintName = "Splitter"
 att.Icon = Material("entities/ammo_splitter.png")
 att.Description = "Heavily modified HP+ bullets that split into 5 bullets when shot. Made by KerkOTech."
 att.Desc_Pros = {
-    "+ Bullet count",
-    "++ Hit Zone",
+    "+5 projectiles per shot",
 }
 att.Desc_Cons = {
 }
 att.Desc_Neutrals = {
-    "Can only be used with smg1 or ar2 ammo",
+    "Only compatible with automatic weapons",
 }
 att.AutoStats = true
 att.Slot = "ammo_bullet"

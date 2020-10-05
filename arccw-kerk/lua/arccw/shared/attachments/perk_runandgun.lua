@@ -1,6 +1,6 @@
 att.PrintName = "Run And Gun"
 att.Icon = Material("entities/acwatt_perk_runandgun.png")
-att.Description = "Lightened frame allows faster movement, shooting while running while the weapon is equipped, but worsens recoil."
+att.Description = "Special lightened frame allows faster movement, shooting while running while the weapon is equipped."
 att.Desc_Pros = {
     "Shoot while sprinting",
 }

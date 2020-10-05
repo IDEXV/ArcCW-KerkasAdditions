@@ -6,8 +6,7 @@ att.Desc_Pros = {
 att.Desc_Cons = {
 }
 att.Desc_Neutrals = {
-    "These rubber bullets can easily kill someone",
-    "Kinda OP against players, expect raging",
+    "Will sometimes one shot players",
 }
 att.AutoStats = true
 att.Slot = "ammo_shotgun"

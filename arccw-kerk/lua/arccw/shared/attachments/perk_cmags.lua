@@ -2,12 +2,12 @@ att.PrintName = "C-Mags"
 att.Icon = Material("entities/acwatt_park_cmags.png")
 att.Description = "High-capacity, C-Shaped magazines allow for even more time before needing to reload, but slow down reloading and increase weapon recoil."
 att.Desc_Pros = {
-    "++ More ammo",
+    "++ Ammo capacity",
 }
 att.Desc_Cons = {
 }
 att.Desc_Neutrals = {
-    "Can only be used with smg1 or ar2 ammo",
+    "Only compatible with automatic weapons",
 }
 att.AutoStats = true
 att.Slot = "ammo_bullet"

@@ -8,6 +8,7 @@ att.Desc_Cons = {
 }
 att.Desc_Neutrals = {
     "Some weapons have an invisible side",
+    "Might be broken on some weapons",
 }
 att.AutoStats = true
 att.Slot = "style_pistol"

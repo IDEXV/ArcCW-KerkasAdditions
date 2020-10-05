@@ -6,7 +6,7 @@ att.Desc_Pros = {
 att.Desc_Cons = {
 }
 att.Desc_Neutrals = {
-    "Can only be used with sniper or magnum ammo",
+    "Only compatible with rifles/revolvers",
 }
 att.AutoStats = true
 att.Slot = "ammo_bullet"

@@ -7,7 +7,7 @@ att.Desc_Cons = {
     "con.beam"
 }
 att.Desc_Neutrals = {
-    "Can only be used with sniper ammo",
+    "Only compatible with sniper rifles",
 }
 att.AutoStats = true
 att.Slot = "tac"
