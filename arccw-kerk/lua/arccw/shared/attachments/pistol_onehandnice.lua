@@ -27,6 +27,4 @@ att.Mult_RecoilSide = 2
 att.Mult_SightTime = 0.75
 att.Mult_DrawTime = 0.75
 
-att.Override_HoldtypeSights = "pistol"
-att.Override_HoldtypeHolstered = "pistol"
 att.Override_HoldtypeActive = "pistol"
