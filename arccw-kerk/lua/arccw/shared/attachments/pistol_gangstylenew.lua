@@ -21,8 +21,8 @@ att.Override_RecoilDirectionSide = Angle(1, 0, 0)
 att.Override_AddSightRoll = -90
 att.Override_HoldtypeActive = "pistol"
 
-att.Mult_Recoil = 1.3
-att.Mult_RecoilSide = 1.3
-att.Mult_SightTime = 8
+att.Mult_Recoil = 1.5
+att.Mult_RecoilSide = 1.5
+att.Mult_SightTime = 2
 att.Mult_HipDispersion = 0.7
 att.Override_ShootWhileSprint = true
