@@ -27,7 +27,7 @@ att.Mult_HipDispersion = 0.5
 att.Mult_PrecisionMOA = 0.8
 att.Override_HoldtypeActive = "pistol"
 
-att.Override_ActivePos = Vector(-1.794, -0.141, 1.873)
-att.Override_ActiveAng = Angle(0, 0, -22.932)
+att.Override_ActivePos = Vector(0.5, -0.927, 1.417)
+att.Override_ActiveAng = Angle(0, 0, -36.52)
 
 att.Override_ShootWhileSprint = true
