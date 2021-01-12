@@ -7,7 +7,7 @@ att.Desc_Pros = {
 att.Desc_Cons = {
 }
 att.Desc_Neutrals = {
-    "Some weapons have an invisible side",
+    "Some weapon have an invisible side",
     "Might be broken on some weapons",
 }
 att.AutoStats = true
